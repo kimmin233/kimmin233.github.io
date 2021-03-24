@@ -6,7 +6,7 @@
 # Site
 title: Ming's blog
 subtitle: kimmin233.github.io
-description: 깃허브 블로그는 어려워.______.
+description: 깃허브 블로그는 어려워 .______.
 author: 밍망
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
@@ -61,8 +61,8 @@ defaults:
       comments: true
 
 # Atom feed
-feed:
-  path: atom.xml
+#feed:
+  #path: atom.xml
 
 # Plugins
 ## Docs: https://help.github.com/articles/configuring-jekyll-plugins/
@@ -213,8 +213,8 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-#social:
-  #LinkLabel: Link
+social:
+  LinkLabel: https://github.com/kimmin233/kimmin233.github.io
 
 
 # Social Links Icons
@@ -226,7 +226,7 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: https://github.com/kimmin233
+  GitHub: github
 
 
 # Sidebar Avatar
