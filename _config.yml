@@ -226,14 +226,12 @@ social_icons:
   enable: true
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
-  GitHub: github
-  Twitter: twitter
-  Weibo: weibo
+  GitHub: https://github.com/kimmin233
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+#avatar: /assets/images/profpic.jpg
 
 
 # Table Of Contents in the Sidebar
