@@ -87,10 +87,10 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-since: 2021
+since: 2021.  
 
 # icon between year and author @Footer
-authoricon: code
+#authoricon: code
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
