@@ -5,8 +5,8 @@
 
 # Site
 title: Ming's blog
-subtitle: kimmin233.github.io
-description: 깃허브 블로그는 어려워 .______.
+subtitle: 깃허브 블로그 어렵네요 .______.
+description: 철이 없었죠. 블로그를 하기위해 깃허브에서 시작했다는 거 자체가.
 author: 밍망
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
@@ -87,10 +87,10 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-#since: 2015
+since: 2021
 
 # icon between year and author @Footer
-authoricon: heart
+authoricon: code
 
 # Footer `powered-by` and `theme-info` copyright
 copyright: true
