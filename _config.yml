@@ -4,10 +4,11 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Ming's blog
+title: Minglog
 subtitle: 깃허브 블로그 어렵네요 .______.
 description: 철이 없었죠. 블로그를 하기위해 깃허브에서 시작했다는 거 자체가.
-author: 밍망
+author: Ming
+header-img: seedling
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: ko
 date_format: '%Y-%m-%d'
@@ -215,7 +216,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/kimmin233
-  Email: mingkim980313@gmail.com
+#  Email: mingkim980313@gmail.com
 
 
 # Social Links Icons
