@@ -3,7 +3,7 @@ title: (╹ڡ╹ )
 description: 
 categories:
  - test
-tags: [Python, Java, Servlet, DeepLearningl]
+tags: [Python, Java, Servlet, DeepLearning]
 ---
 
 <!-- more -->
