@@ -2,7 +2,7 @@
 title: "진짜 오랜만에 깃허브,,"
 description: 열심히 살아보자
 categories: 
- - 
+ - etc
 tags: 
 ---
 
